@@ -3,8 +3,3 @@ The goal of this project was to build a predictive model for inflation rates. In
 
 ## Algorithm
 The project was implemented using Python programming language and several libraries such as pandas, matplotlib, tensorflow, scikit-learn, and pickle. The models were trained on CPI data from previous months, with data from before January 1999 excluded due to changes in data classification.
-
-## Authors
-Damian Koperstyński
-Łukasz Wajda
-Tomasz Madej
